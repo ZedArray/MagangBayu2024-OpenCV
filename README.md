@@ -1,4 +1,5 @@
 # MagangBayu2024-OpenCV
+![](https://github.com/ZedArray/MagangBayu2024-OpenCV/make_it_rain.gif)
 
 Semua contoh ada di folder examples, bisa di coba sendiri :)
 
